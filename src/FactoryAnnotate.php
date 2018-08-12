@@ -1,6 +1,6 @@
 <?php
 
-namespace \qlixes\annotations;
+namespace qlixes\annotations;
 
 /**
 * @Annotation
