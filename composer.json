@@ -1,0 +1,19 @@
+{
+    "name": "qlixes/annotations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antony Afandy",
+            "email": "qlixess@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "zendframework/zend-diactoros": "^1.8"
+    },
+    "autoload": {
+    	"psr-4": { "qlixes\\annotations\\": "src/" }
+    },
+    "repositories": [ { "type": "vcs", "url": "https://github.com/qlixes/annotations" } ]
+}
