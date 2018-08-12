@@ -7,7 +7,7 @@ namespace \qlixes\annotations;
 */
 class FactoryAnnotate
 {
-  protected $constructor
+  public $constructor
 
   public function __construct($options)
   {
